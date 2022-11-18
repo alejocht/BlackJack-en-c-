@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BlackjackUTN" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BlackjackUTN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BlackjackUTN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Cartas.h" />
+		<Unit filename="Funciones de la cpu.h" />
+		<Unit filename="Funciones esteticas.cpp" />
+		<Unit filename="Funciones esteticas.h" />
+		<Unit filename="Funciones para el jugador.h" />
+		<Unit filename="Menu.h" />
+		<Unit filename="cartas automatizadas.cpp" />
+		<Unit filename="cartas automatizadas.h" />
+		<Unit filename="cartas.cpp" />
+		<Unit filename="funciones de la cpu.cpp" />
+		<Unit filename="funciones para el jugador.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="rlutil.h" />
+		<Unit filename="zona de mensajes.cpp" />
+		<Unit filename="zona de mensajes.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

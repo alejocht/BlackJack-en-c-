@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1668747910 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\funciones esteticas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"rlutil.h"
+	"Funciones esteticas.h"
+
+1668219688 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668573005 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\funciones esteticas.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"rlutil.h"
+
+1668748286 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\main.cpp
+	<iostream>
+	<ctime>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+	"Funciones para el jugador.h"
+	"cartas automatizadas.h"
+	"zona de mensajes.h"
+
+1668747104 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\menu.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	"rlutil.h"
+	"Cartas.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"Menu.h"
+
+1668723504 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\funciones de la cpu.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1668571723 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\cartas.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<ctime>
+
+1668746204 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\cartas.cpp
+	<iostream>
+	<ctime>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+
+1668727217 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\funciones de la cpu.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1668634026 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\menu.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"rlutil.h"
+	"Funciones esteticas.h"
+	"Funciones de la cpu.h"
+	"Cartas.h"
+
+1668653505 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\funciones para el jugador.h
+	<iostream>
+	<ctime>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+
+1668747447 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\funciones para el jugador.cpp
+	<iostream>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+	"zona de mensajes.h"
+
+1668747212 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\cartas automatizadas.cpp
+	<iostream>
+	<ctime>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+	"Funciones para el jugador.h"
+	"zona de mensajes.h"
+
+1668718490 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\cartas automatizadas.h
+	<iostream>
+	<ctime>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+	"Funciones para el jugador.h"
+
+1668748206 source:e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\zona de mensajes.cpp
+	<iostream>
+	<ctime>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+	"Funciones para el jugador.h"
+	"cartas automatizadas.h"
+
+1668747936 e:\utn\laboratorio de computacion i\tp integrador\blackjackutn\zona de mensajes.h
+	<iostream>
+	<ctime>
+	"Cartas.h"
+	"Menu.h"
+	"Funciones de la cpu.h"
+	"Funciones esteticas.h"
+	"rlutil.h"
+	"Funciones para el jugador.h"
+	"cartas automatizadas.h"
+
